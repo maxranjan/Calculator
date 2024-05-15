@@ -1,2 +1,3 @@
 # Calculator
-Calculator Design By Nicky Ranjan
+Calculator Design By Nicky Ranjan 
+Thanks
